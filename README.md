@@ -1,4 +1,4 @@
-# Astro Starter Kit: Basics
+# west coast flow
 
 ```sh
 npm create astro@latest -- --template basics
